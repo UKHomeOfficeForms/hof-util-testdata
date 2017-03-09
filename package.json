@@ -1,6 +1,6 @@
 {
   "name": "hof-util-testdata",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generator for test fixtures",
   "main": "index.js",
   "scripts": {
