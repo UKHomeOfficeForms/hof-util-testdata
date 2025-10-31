@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/UKHomeOfficeForms/hof-util-testdata#readme",
   "dependencies": {
-    "homeoffice-countries": "^0.1.0"
+    "homeoffice-countries": "^0.2.0"
   }
 }
